@@ -28,7 +28,7 @@ $config['app_version'] = '3.1.11';
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://10.12.125.16/STIOS';
+$config['base_url'] = 'http://localhost/STIOS';
 
 /*
 |--------------------------------------------------------------------------
