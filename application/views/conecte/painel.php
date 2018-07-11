@@ -2,7 +2,6 @@
   <div class="quick-actions_homepage">
     <ul class="quick-actions">
       <li class="bg_lo span3"> <a href="<?php echo base_url()?>index.php/mine/os"> <i class="icon-tags"></i> Ordens de Serviço</a> </li>
-      <li class="bg_ls span3"> <a href="<?php echo base_url()?>index.php/mine/compras"><i class="icon-shopping-cart"></i> Compras</a></li>
       <li class="bg_lg span3"> <a href="<?php echo base_url()?>index.php/mine/conta"><i class="icon-star"></i> Minha Conta</a></li>
     </ul>
   </div>
