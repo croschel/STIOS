@@ -36,22 +36,24 @@
 
                                         <div class="span12">
                                             <label for="descricaoProduto">Descrição Produto/Serviço*</label>
-                                            <textarea class="span12" name="descricaoProduto" id="descricaoProduto" cols="30" rows="5"></textarea>
+                                            <textarea class="span12" name="descricaoProduto" id="descricaoProduto" cols="30" rows="5"
+                                            placeholder="Exemplo: Computador de mesa, Notebook, Impressora e etc"></textarea>
                                         </div>
                                     </div>
 
                                     <div class="span12" style="padding: 1%; margin-left: 0">
 
                                         <div class="span12">
-                                            <label for="defeito">Defeito</label>
-                                            <textarea class="span12" name="defeito" id="defeito" cols="30" rows="5"></textarea>
+                                            <label for="defeito">Defeito*</label>
+                                            <textarea class="span12" name="defeito" id="defeito" cols="30" rows="5" required placeholder="Descreva de maneira simples e objetiva"></textarea>
                                         </div>
 
                                     </div>
                                     <div class="span12" style="padding: 1%; margin-left: 0">
                                         <div class="span12">
-                                            <label for="observacoes">Observações</label>
-                                            <textarea class="span12" name="observacoes" id="observacoes" cols="30" rows="5"></textarea>
+                                            <label for="observacoes">Ip da Máquina / Observações</label>
+                                            <textarea class="span12" name="observacoes" id="observacoes" cols="30" rows="5"
+                                            placeholder="Para achar seu ip vá até o ícone de conexão na barra superior e selecione-o. Após ter feito isso, vá em informações de ligação."></textarea>
                                         </div>
 
                                     </div>

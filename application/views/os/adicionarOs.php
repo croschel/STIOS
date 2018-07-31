@@ -78,7 +78,7 @@
                                     </div>
                                     <div class="span12" style="padding: 1%; margin-left: 0">
                                         <div class="span6">
-                                            <label for="observacoes">Observações</label>
+                                            <label for="observacoes">Ip da Máquina / Observação</label>
                                             <textarea class="span12" name="observacoes" id="observacoes" cols="30" rows="5"></textarea>
                                         </div>
                                         <div class="span6">
